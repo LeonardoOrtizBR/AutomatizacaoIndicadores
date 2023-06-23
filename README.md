@@ -1,4 +1,4 @@
-# 🚀 Procurar preço de produtos
+# 🚀 Automacao De Indicadores
 
 Este repositório contém o projeto "Automacao De Indicadores" desenvolvido no Jupyter Notebook, com o objetivo de automatizar o envio diário de e-mails com dados para gerentes e diretoria. O programa visa facilitar o processo de coletar dados de vendas de uma base de dados e realizar análises, separando os dados por lojas e enviando relatórios personalizados para cada gerente.
 
